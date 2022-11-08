@@ -5,6 +5,9 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import time
 
+# I did naht hit her, it's bowshit, it's not true, I did naht hit her, I did NAHHHT
+# Oh hi Stephen
+
 chromeOptions = Options()
 chromeOptions.add_argument("--kiosk")
 
